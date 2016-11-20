@@ -1,1 +1,2 @@
-<?PHP include_once("firstpage.html>") ?>
+<?php include_once("firstpage.html>"); ?>
+
